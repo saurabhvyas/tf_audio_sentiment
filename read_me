@@ -1,0 +1,11 @@
+this repo has 2 models ( simple logistic classifier ) and bi-directional rnn model , both of which classify small audio file to 2 classes :
+
+c1: happy audio
+c2: not happy audio
+
+_________________________________________________________________________
+
+data : this folder contains audio data 
+models: this folder contains saved models
+
+
